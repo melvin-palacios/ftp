@@ -1,0 +1,1 @@
+useradd toto --create-home
